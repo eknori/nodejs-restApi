@@ -1,5 +1,5 @@
 # nodejs-restApi
-A simple Code.js / Express.js CRUD application.
+A simple Node.js / Express.js CRUD application.
 
 Make sure you have [Node.js](http://nodejs.org/) installed.
 
